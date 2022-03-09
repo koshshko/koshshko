@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02108793-bba2-4bbb-a28c-79368818fed7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22KUHmc9srhizFdoA5vodjjiixL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.38" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basics" />
+      <recent name="oop.advanced.builder" />
+      <recent name="oop.advanced.singleton" />
+      <recent name="oop.advanced.polymorph" />
+      <recent name="oop.advanced.inheritance" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\java\first-program\src\main\java\oop\advanced\polymorph" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PistolTests.whenReloadNotEmptyAmmoShouldReloadSuccessfully">
+    <configuration name="PistolTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first-program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.practice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basics.practice2" />
+      <option name="MAIN_CLASS_NAME" value="basics.practice2.PistolTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PistolTests.whenReloadNotEmptyAmmoShouldReloadSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first-program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.practice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basics.practice2" />
+      <option name="MAIN_CLASS_NAME" value="basics.practice2.PistolTests" />
+      <option name="METHOD_NAME" value="whenReloadNotEmptyAmmoShouldReloadSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PistolTests.whenReloadWith1AmmoShouldThrowExceptionAndStateDidNotChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first-program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.practice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basics.practice2" />
+      <option name="MAIN_CLASS_NAME" value="basics.practice2.PistolTests" />
+      <option name="METHOD_NAME" value="whenReloadWith1AmmoShouldThrowExceptionAndStateDidNotChange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PistolTests.whenShootWithoutBulletsAndAmmoShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first-program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.practice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basics.practice2" />
+      <option name="MAIN_CLASS_NAME" value="basics.practice2.PistolTests" />
+      <option name="METHOD_NAME" value="whenShootWithoutBulletsAndAmmoShould" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PistolTests.whenShootWithoutBulletsAndAmmoShouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first-program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.practice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basics.practice2" />
+      <option name="MAIN_CLASS_NAME" value="basics.practice2.PistolTests" />
+      <option name="METHOD_NAME" value="whenShootWithoutBulletsAndAmmoShouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PistolTests.whenReloadNotEmptyAmmoShouldReloadSuccessfully" />
+        <item itemvalue="JUnit.PistolTests.whenReloadWith1AmmoShouldThrowExceptionAndStateDidNotChange" />
+        <item itemvalue="JUnit.PistolTests.whenShootWithoutBulletsAndAmmoShouldThrowException" />
+        <item itemvalue="JUnit.PistolTests.whenShootWithoutBulletsAndAmmoShould" />
+        <item itemvalue="JUnit.PistolTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02108793-bba2-4bbb-a28c-79368818fed7" name="Default Changelist" comment="" />
+      <created>1639585687008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639585687008</updated>
+      <workItem from="1639585689470" duration="7762000" />
+      <workItem from="1639651856413" duration="152000" />
+      <workItem from="1639755917838" duration="8722000" />
+      <workItem from="1639820510687" duration="115000" />
+      <workItem from="1639909177900" duration="753000" />
+      <workItem from="1639910174168" duration="1074000" />
+      <workItem from="1640188494050" duration="9606000" />
+      <workItem from="1640356210541" duration="7119000" />
+      <workItem from="1640432384871" duration="41000" />
+      <workItem from="1642003122675" duration="7417000" />
+      <workItem from="1642062083125" duration="719000" />
+      <workItem from="1642159060967" duration="882000" />
+      <workItem from="1642175153893" duration="7973000" />
+      <workItem from="1642329067993" duration="33000" />
+      <workItem from="1642494837553" duration="4471000" />
+      <workItem from="1642523465378" duration="13657000" />
+      <workItem from="1642692269047" duration="42000" />
+      <workItem from="1642780913057" duration="8097000" />
+      <workItem from="1642933447424" duration="625000" />
+      <workItem from="1643034094711" duration="223000" />
+      <workItem from="1643208246927" duration="9518000" />
+      <workItem from="1643295205347" duration="595000" />
+      <workItem from="1643295935875" duration="6000" />
+      <workItem from="1643296393205" duration="58000" />
+      <workItem from="1643385728750" duration="8430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
